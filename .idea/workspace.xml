@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ba473a2-7800-4080-a463-f416062ab50f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamAPI.java" afterDir="false" />
+    <list default="true" id="6ba473a2-7800-4080-a463-f416062ab50f" name="Changes" comment="&quot;count occurrence of a given character&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674012924922</updated>
-      <workItem from="1674012926905" duration="2016000" />
+      <workItem from="1674012926905" duration="5226000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;count occurrence of a given character&quot;">
+      <created>1674015072458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674015072458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;count occurrence of a given character&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;count occurrence of a given character&quot;" />
   </component>
 </project>
